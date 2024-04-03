@@ -1,0 +1,5 @@
+flask
+gtts
+flask-cors
+from_root
+-e .
